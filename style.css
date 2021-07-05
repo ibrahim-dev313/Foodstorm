@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+.flexible-container {
+    display: flex;
+    padding-top: 2%;
+    padding-left: 7%;
+    padding-bottom: 8%;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 40px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.half-page {
+    width: 50%;
+}
+
+.order-page {
+    padding-top: 130px;
+}
+
+.order-page p {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 15px 35px;
+    background-image: linear-gradient(#ff5f6d, #fc575e, #ffc471);
+    color: white;
+    font-weight: 800;
+    display: inline-block;
+    margin-top: 45px;
+    font-size: 20px;
+    border-radius: 40px;
+}
+
+.half-page img {
+
+    width: 80%;
+}
+
+.recipe-info {
+    text-align: center;
+    padding-left: 160px;
+    padding-right: 180px;
+}
+
+.recipe-menu {}
