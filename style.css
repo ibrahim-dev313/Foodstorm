@@ -1,5 +1,7 @@
 body {
     margin: 0px;
+    width: 1550px;
+    height: 2450px;
 }
 
 .flexible-container {
@@ -85,4 +87,7 @@ p {
 
 footer {
     text-align: center;
+    background-image: linear-gradient(#ff0084, #33001b);
+    height: 150px;
+    padding-top: 20px;
 }
