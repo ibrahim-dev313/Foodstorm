@@ -22,6 +22,11 @@ h2 {
     font-size: 40px;
 }
 
+h3 {
+    font-size: 35px;
+}
+
+
 p {
     font-size: 20px;
 }
@@ -87,10 +92,17 @@ p {
 
 }
 
+.card-body {
+    text-align: center;
+
+
+}
+
 footer {
     text-align: center;
     background: linear-gradient(45deg, red, blue);
     height: 150px;
-    padding-top: 20px;
+    padding: 2%;
+    line-height: 8px;
     color: white;
 }
