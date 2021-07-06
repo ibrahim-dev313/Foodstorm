@@ -1,8 +1,15 @@
 body {
     margin: 0px;
-    width: auto;
-    height: 2450px;
     font-family: 'Exo 2', sans-serif;
+}
+
+header {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    background-image: linear-gradient(rgba(250, 209, 0, 1), rgba(255, 85, 0, 1));
+
+    padding: 2px;
+    color: black;
 }
 
 .flexible-container {
@@ -29,6 +36,10 @@ h3 {
 
 p {
     font-size: 20px;
+}
+
+span {
+    color: tomato;
 }
 
 .half-page {
@@ -84,7 +95,7 @@ p {
     margin-left: 30px;
     border-radius: 25px;
     padding: 20px;
-    box-shadow: 5px 5px 10px grey;
+    box-shadow: 15px 15px 50px grey;
 }
 
 .card-img {
@@ -94,14 +105,13 @@ p {
 
 .card-body {
     text-align: center;
-
-
+    tex
 }
 
 footer {
     text-align: center;
-    background: linear-gradient(45deg, red, blue);
-    height: 150px;
+    background: linear-gradient(90deg, red, blue);
+    height: auto;
     padding: 2%;
     line-height: 8px;
     color: white;
