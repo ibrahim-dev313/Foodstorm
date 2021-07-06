@@ -56,7 +56,7 @@ p {
 }
 
 .contact-area {
-    background-image: url("/images/contact-background.jpg");
+    background-image: url("images/contact-background.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
