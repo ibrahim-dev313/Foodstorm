@@ -1,5 +1,5 @@
 body {
-    margin: 20px;
+    margin: 0px;
 }
 
 .flexible-container {
@@ -28,12 +28,13 @@ p {
 }
 
 .order-page {
-    padding-top: 130px;
+    padding-top: 100px;
 }
 
 .order-page p {
     width: 70%;
 }
+
 
 .link-button {
     text-decoration: none;
@@ -49,6 +50,16 @@ p {
 
 .half-page img {
 
+    width: 115%;
+}
+
+.contact-area {
+    background-image: url("/images/contact-background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.contact-area img {
     width: 80%;
 }
 
